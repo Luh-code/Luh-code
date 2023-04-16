@@ -3,7 +3,7 @@
 I am a hobby coder from germany.
 I code in c++ in my freetime, and like making some games and experiments in Godot from time to time.
 The language I dispise the most is Java.
-I use Windows and rarely Linux.  
+I use Windows and sometimes Linux.  
 _(I say that, because my stuff may not always run on Linux or Mac)_
 ## Currently
 I am learning Vulkan and am trying to wrap my head around graphics and rendering technology.  
