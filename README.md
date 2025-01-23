@@ -1,4 +1,4 @@
-# @Luh-code
+<!---# @Luh-code--->
 I like graphics programming, NixOS, NeoVim and Zig.
 
 <!---
